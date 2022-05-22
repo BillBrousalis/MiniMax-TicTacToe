@@ -25,10 +25,12 @@ function  minimax(node, depth, maximizingPlayer) is
 ```
 
 ## Use
+Install required libraries
+```
+pip3 install -r requirements.txt
+```
+
+Run the game!
 ```
 python3 play_game.py
-```
-or
-```
-./play_game.py
 ```
