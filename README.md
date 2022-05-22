@@ -3,7 +3,7 @@ Don't use neural nets when you don't have to
 
 ## MiniMax Algorith
 
-![]("./pics/minimax_tictactoe.jpg")
+![](./pics/minimax_tictactoe.jpg)
 
 
 In pseudocode (depth limited):
