@@ -1,12 +1,12 @@
 # MiniMax Tic-Tac-Toe
 Don't use neural nets when you don't have to
 
-## MiniMax Algorith
+## MiniMax Algorithm
 
 ![](./pics/minimax_tictactoe.jpg)
 
 
-In pseudocode (depth limited):
+Pseudocode (Depth Limited):
 
 ```
 function  minimax(node, depth, maximizingPlayer) is
